@@ -1,7 +1,7 @@
 ## Hi!
 My name is Lulzim and I am currently a student at ITHS in Gothenburg where I am studying under the IT-Securityspecialist programe. In this portfolio I hope to share my different experiences and accomplishments while I go down the journey of IT.
 
-As I go through my studies I will be working on labs to gain further, practical, knowledge.
+As I go through my studies I will be working on labs to gain further, practical, knowledge. Which will then be shared in this portfolio.
 
 <!--
 **LulzimSec/LulzimSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
